@@ -1,0 +1,10 @@
+{"id": "q1", "query": "What is the ReAct framework and how does it combine reasoning with acting in language models?", "type": "factoid", "must_cite": ["2210.03629"], "relevant_papers": ["2210.03629"]}
+{"id": "q2", "query": "Compare and contrast Chain-of-Thought prompting with Tree of Thoughts reasoning. What are the key differences?", "type": "comparative", "must_cite": ["2201.11903", "2305.10601"], "relevant_papers": ["2201.11903", "2305.10601"]}
+{"id": "q3", "query": "What is Reflexion and how does it enable language agents to learn from verbal feedback?", "type": "factoid", "must_cite": ["2303.11366"], "relevant_papers": ["2303.11366"]}
+{"id": "q4", "query": "How does Toolformer enable language models to use external tools? What training approach does it use?", "type": "factoid", "must_cite": ["2302.04761"], "relevant_papers": ["2302.04761"]}
+{"id": "q5", "query": "What are the main approaches to multi-agent collaboration in LLM systems? Survey the key frameworks.", "type": "survey", "must_cite": ["2308.08155", "2308.11432"], "relevant_papers": ["2308.08155", "2308.11432", "2303.17580"]}
+{"id": "q6", "query": "What is HuggingGPT and how does it orchestrate multiple AI models to solve complex tasks?", "type": "factoid", "must_cite": ["2303.17580"], "relevant_papers": ["2303.17580"]}
+{"id": "q7", "query": "How does the Voyager agent learn and explore in Minecraft? What are its key components?", "type": "factoid", "must_cite": ["2305.16291"], "relevant_papers": ["2305.16291"]}
+{"id": "q8", "query": "What is Self-RAG and how does it improve retrieval-augmented generation through self-reflection?", "type": "factoid", "must_cite": ["2310.11511"], "relevant_papers": ["2310.11511"]}
+{"id": "q9", "query": "Compare AutoGen and MetaGPT for multi-agent software development. What are their architectural differences?", "type": "comparative", "must_cite": ["2308.08155", "2308.11432"], "relevant_papers": ["2308.08155", "2308.11432"]}
+{"id": "q10", "query": "What safety and alignment challenges exist for agentic AI systems? How can they be addressed?", "type": "survey", "must_cite": [], "relevant_papers": []}

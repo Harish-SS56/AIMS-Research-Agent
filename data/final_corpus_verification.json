@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-05-31T15:58:53.298943",
+  "new_papers_added": 100,
+  "total_arxiv_papers": 556,
+  "total_chunks": 32081,
+  "bm25_documents": 32081,
+  "chromadb_vectors": 42785,
+  "failed_downloads": 0,
+  "failed_parses": 0,
+  "duplicates_skipped": 65,
+  "indexes_synchronized": false,
+  "corpus_status": "FINAL"
+}

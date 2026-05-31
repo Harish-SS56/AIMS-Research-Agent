@@ -1,0 +1,4682 @@
+{
+  "timestamp": "2026-05-29T17:15:51.798640",
+  "total_papers": 514,
+  "stats": {
+    "with_arxiv": 111,
+    "from_2024_2026": 514,
+    "relevant_to_agentic_ai": 331,
+    "with_pdf_url": 418
+  },
+  "topic_stats": {
+    "LLM agents language model": {
+      "fetched": 100,
+      "unique_new": 100,
+      "with_arxiv": 20,
+      "with_pdf": 69,
+      "relevant": 72
+    },
+    "agentic RAG retrieval augmented generation": {
+      "fetched": 100,
+      "unique_new": 95,
+      "with_arxiv": 19,
+      "with_pdf": 71,
+      "relevant": 90
+    },
+    "ReAct reasoning acting language model": {
+      "fetched": 100,
+      "unique_new": 83,
+      "with_arxiv": 15,
+      "with_pdf": 78,
+      "relevant": 40
+    },
+    "Reflexion language agent reinforcement": {
+      "fetched": 100,
+      "unique_new": 73,
+      "with_arxiv": 27,
+      "with_pdf": 71,
+      "relevant": 31
+    },
+    "tool use function calling language model": {
+      "fetched": 100,
+      "unique_new": 85,
+      "with_arxiv": 13,
+      "with_pdf": 81,
+      "relevant": 27
+    },
+    "multi-agent systems large language model": {
+      "fetched": 100,
+      "unique_new": 78,
+      "with_arxiv": 17,
+      "with_pdf": 48,
+      "relevant": 71
+    }
+  },
+  "papers": [
+    {
+      "title": "SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405787555",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "On protecting the data privacy of Large Language Models (LLMs) and LLM agents: A literature review",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408051337",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.hcc.2025.100300",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "A Survey on Evaluation of Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391136507",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "A Survey of Large Language Models",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W4362515116",
+      "arxiv_id": "2303.18223",
+      "pdf_url": "https://arxiv.org/pdf/2303.18223",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "A survey on large language model based autonomous agents",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393065402",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11704-024-40231-1.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401416853",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "OpenFOAMGPT: A retrieval-augmented large language model (LLM) agent for OpenFOAM-based computational fluid dynamics",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408150519",
+      "arxiv_id": "2501.06327",
+      "pdf_url": "https://arxiv.org/pdf/2501.06327",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "AutoHMA-LLM: Efficient Task Coordination and Execution in Heterogeneous Multi-Agent Systems Using Hybrid Large Language Models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406321977",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parametrization in Digital Twins",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403447187",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Augmenting large language models with chemistry tools",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396723768",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s42256-024-00832-8.pdf",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392121126",
+      "arxiv_id": "2402.14744",
+      "pdf_url": "https://arxiv.org/pdf/2402.14744",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411119815",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2025.findings-naacl.448.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390529439",
+      "arxiv_id": "2401.00812",
+      "pdf_url": "https://arxiv.org/pdf/2401.00812",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4415795362",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "The rise and potential of large language model based agents: a survey",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406800520",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Content Knowledge Identification with Multi-agent Large Language Models (LLMs)",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400210724",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Abstract Functional Language Logic: A Competitive Mixture of Experts Architecture for Paradox-Free Reasoning and Adaptive Intelligence",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4293718192",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.5281/zenodo.17754506",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391621414",
+      "arxiv_id": "2402.02896",
+      "pdf_url": "https://arxiv.org/pdf/2402.02896",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "From LLM to Agent: A large-language-model-driven machine learning framework for catalyst design of MgH2 dehydrogenation",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4415434959",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.jma.2025.08.021",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "From LLM to Conversational Agent: A Memory Enhanced Architecture with Fine-Tuning of Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390721568",
+      "arxiv_id": "2401.02777",
+      "pdf_url": "https://arxiv.org/pdf/2401.02777",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "A review of large language models and autonomous agents in chemistry",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405185373",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1039/d4sc03921a",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404782209",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.emnlp-main.992.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Generation of Scientific Literature Surveys Based on Large Language Models (LLM) and Multi-Agent Systems (MAS)",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403939886",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403203873",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44336-024-00009-2.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Large language models empowered agent-based modeling and simulation: a survey and perspectives",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402901320",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41599-024-03611-3.pdf",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Exploring Text-Generating Large Language Models (LLMs) for Emotion Recognition in Affective Intelligent Agents",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392305709",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.5220/0012596800003636",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393154152",
+      "arxiv_id": null,
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/28597/29161",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Evaluating large language models as agents in the clinic",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393867901",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41746-024-01083-y.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Generative agents in the streets: Exploring the use of Large Language Models (LLMs) in collecting urban perceptions",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W4390092730",
+      "arxiv_id": "2312.13126",
+      "pdf_url": "https://arxiv.org/pdf/2312.13126",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Enhancing Multi-Agent Consensus Through Third-Party LLM Integration: Analyzing Uncertainty and Mitigating Hallucinations in Large Language Models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411144204",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "ChatMOF: an artificial intelligence system for predicting and generating metal-organic frameworks using large language models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399290669",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41467-024-48998-4.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Adoption and impacts of generative artificial intelligence: Theoretical underpinnings and research agenda",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393308843",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.jjimei.2024.100232",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "LLMs for knowledge graph construction and reasoning: recent capabilities and future opportunities",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401754921",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "GenAI-powered Multi-Agent Paradigm for Smart Urban Mobility: Opportunities and Challenges for Integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Intelligent Transportation Systems",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403555373",
+      "arxiv_id": "2409.00494",
+      "pdf_url": "https://arxiv.org/pdf/2409.00494",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Effect of an AI agent trained on a large language model (LLM) as an intervention for depression and anxiety symptoms in young adults: A 28‐day randomized controlled trial",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4414016157",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Self-Collaboration Code Generation via ChatGPT",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399557965",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3672459",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Large Language Model Enhanced Multi-Agent Systems for 6G Communications",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401628481",
+      "arxiv_id": null,
+      "pdf_url": "http://bura.brunel.ac.uk/bitstream/2438/29476/1/Preprint.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Embodied intelligence in manufacturing: leveraging large language models for autonomous industrial robotics",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390771941",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401414574",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "UCD-LLM: A use case diagram requirement modeling multi-agent framework with large language model",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4415746505",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Large Language Models for Mental Health Applications: Systematic Review",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402193006",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.2196/57400",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W7126417061",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.personalize-1.9.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "HMSC-LLMs: A Hierarchical Multi-agent Service Composition Method Based on Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404724996",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Understanding Large-Language Model (LLM)-powered Human-Robot Interaction",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390722831",
+      "arxiv_id": "2401.03217",
+      "pdf_url": "https://arxiv.org/pdf/2401.03217",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Knowledge Graph Prompting for Multi-Document Question Answering",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393152682",
+      "arxiv_id": null,
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29889/31552",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "An evaluation framework for clinical use of large language models in patient interaction tasks",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4405995927",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "A Multiagent-Driven Robotic AI Chemist Enabling Autonomous Chemical Research On Demand",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408247476",
+      "arxiv_id": null,
+      "pdf_url": "https://research.birmingham.ac.uk/en/publications/aa66fb2a-2a39-4565-80a7-68ba34be567c",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393763811",
+      "arxiv_id": "2404.00282",
+      "pdf_url": "https://arxiv.org/pdf/2404.00282",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Improving large language model applications in biomedicine with retrieval-augmented generation: a systematic review, meta-analysis, and clinical development guidelines",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406421570",
+      "arxiv_id": null,
+      "pdf_url": "https://academic.oup.com/jamia/advance-article-pdf/doi/10.1093/jamia/ocaf008/61442713/ocaf008.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "An automatic end-to-end chemical synthesis development platform powered by large language models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404641323",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41467-024-54457-x.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "RoCo: Dialectic Multi-Robot Collaboration with Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401416363",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "ChatEDA: A Large Language Model Powered Autonomous Agent for EDA",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393305455",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Large Language Models, and LLM-Based Agents, Should Be Used to Enhance the Digital Public Sphere",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403577619",
+      "arxiv_id": "2410.12123",
+      "pdf_url": "https://arxiv.org/pdf/2410.12123",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "When Large Language Model Agents Meet 6G Networks: Perception, Grounding, and Alignment",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401878796",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parametrization in Digital Twins",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399151882",
+      "arxiv_id": "2405.18092",
+      "pdf_url": "https://arxiv.org/pdf/2405.18092",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Designing Heterogeneous LLM Agents for Financial Sentiment Analysis",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401545735",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3688399",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Building LLM-based AI Agents in Social Virtual Reality",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396833393",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3613905.3651026",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391591807",
+      "arxiv_id": "2402.01927",
+      "pdf_url": "https://arxiv.org/pdf/2402.01927",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "LAVE: LLM-Powered Agent Assistance and Language Augmentation for Video Editing",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391940619",
+      "arxiv_id": "2402.10294",
+      "pdf_url": "https://arxiv.org/pdf/2402.10294",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "A Multi-Agent Large Language Model (Llm) Framework for Code-Complying Design Automation of Concrete Structures",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408878366",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.2139/ssrn.5193679",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "LLMs and generative agent-based models for complex systems research",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403904079",
+      "arxiv_id": null,
+      "pdf_url": "https://zaguan.unizar.es/record/147165/files/texto_completo.pdf",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Large Language Model based Multi-Agents: A Survey of Progress and Challenges",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391591599",
+      "arxiv_id": "2402.01680",
+      "pdf_url": "https://arxiv.org/pdf/2402.01680",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4394782263",
+      "arxiv_id": "2404.07960",
+      "pdf_url": "https://arxiv.org/pdf/2404.07960",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision, and the Road Ahead",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406325768",
+      "arxiv_id": null,
+      "pdf_url": "https://ink.library.smu.edu.sg/sis_research/10487",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Comparative Performance of agentic AI and Physicians in Taking Clinical History across Leading Large Language Models (LLMs)",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7125638042",
+      "arxiv_id": null,
+      "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2026/01/25/2026.01.23.26344723.full.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Natural Language Information Retrieval from BIM Models: An LLM-Based Multi-Agent System Approach",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4413862959",
+      "arxiv_id": null,
+      "pdf_url": "https://ec-3.org/publications/conferences/EC32025/papers/EC32025_265.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "AutoCodeRover: Autonomous Program Improvement",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402442868",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3650212.3680384?download=true",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Teach AI How to Code: Using Large Language Models as Teachable Agents for Programming Education",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396832972",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3613904.3642349",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Automatic building energy model development and debugging using large language models agentic workflow",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404734517",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402670791",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-acl.33.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401042604",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-naacl.229.pdf",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Generative AI Agents With Large Language Model for Satellite Networks via a Mixture of Experts Transmission",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402473949",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Model",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404134046",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3649329.3657353?download=true",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Deception abilities emerged in large language models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399320026",
+      "arxiv_id": null,
+      "pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2317967121",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Agentic, Multimodal Large Language Model (LLM) with behavioural parameters and self-iterative capabilities for conversational architectural design processes",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4416225175",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Can a Large Language Model Keep My Secrets? A Study on LLM-Controlled Agents",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4412889406",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2025.acl-srw.49.pdf",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Enhancing diagnostic capability with multi-agents conversational large language models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408411093",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41746-025-01550-0.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "The perils and promises of fact-checking with large language models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391610230",
+      "arxiv_id": null,
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/frai.2024.1341697/pdf?isPublishedV2=False",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "The benefits and dangers of anthropomorphic conversational agents",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410431873",
+      "arxiv_id": null,
+      "pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2415898122",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "“It's a Fair Game”, or Is It? Examining How Users Navigate Disclosure Risks and Benefits When Using LLM-Based Conversational Agents",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396832466",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3613904.3642385",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4412203333",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390730779",
+      "arxiv_id": "2401.03428",
+      "pdf_url": "https://arxiv.org/pdf/2401.03428",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Large language models illuminate a progressive pathway to artificial intelligent healthcare assistant",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396999789",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.medp.2024.100030",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Empowering digital twins with large language models for global temporal feature learning",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392612897",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "On Generative Agents in Recommendation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400525295",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1145/3626772.3657844",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4412709685",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "AI for social science and social science of AI: A survey",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391669244",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "RepairAgent: An Autonomous, LLM-Based Agent for Program Repair",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411551762",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "CloChat: Understanding How People Customize, Interact, and Experience Personas in Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396832890",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3613904.3642472",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402671543",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.acl-long.381.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402671013",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.acl-long.737.pdf",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Virtual Agents for Alcohol Use Counseling: Exploring LLM-Powered Motivational Interviewing",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400611416",
+      "arxiv_id": "2407.08095",
+      "pdf_url": "https://arxiv.org/pdf/2407.08095",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Circuit-AI: An Advanced Large Language Model (LLM) Based AI-Agent for Bill of Materials (BoM) Optimization, Circuit Simulations &amp; Design",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4416961253",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401415431",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "An AI Agent for Fully Automated Multi‐Omic Analyses",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403099947",
+      "arxiv_id": null,
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202407094",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "An automated framework for assessing how well LLMs cite relevant medical references",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409505176",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41467-025-58551-6.pdf",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Understanding the planning of LLM agents: A survey",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391620956",
+      "arxiv_id": "2402.02716",
+      "pdf_url": "https://arxiv.org/pdf/2402.02716",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Unlock Life with a Chat(GPT): Integrating Conversational AI with Large Language Models into Everyday Lives of Autistic Individuals",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396827139",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3613904.3641989",
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Learning Agent-based Modeling with LLM Companions: Experiences of Novices and Experts Using ChatGPT &amp; NetLogo Chat",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391421475",
+      "arxiv_id": "2401.17163",
+      "pdf_url": "https://arxiv.org/pdf/2401.17163",
+      "relevant": false,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Enhancing AI Systems with Agentic Workflows Patterns in Large Language Model",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400491795",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "LLM agents language model"
+    },
+    {
+      "title": "Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406542750",
+      "arxiv_id": "2501.09136",
+      "pdf_url": "https://arxiv.org/pdf/2501.09136",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4415539809",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4412886806",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2025.acl-long.131.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "AU-RAG: Agent-based Universal Retrieval Augmented Generation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405143935",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3673791.3698416",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "RAG-Critic: Leveraging Automated Critic-Guided Agentic Workflow for Retrieval Augmented Generation",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4412886707",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2025.acl-long.179.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Generative AI and Retrieval-Augmented Generation (RAG) in an Agent-Based Simulation Framework for Urban Planning",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403873822",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.46354/i3m.2024.mas.021",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "AutoBnB-RAG: Enhancing Multi-Agent Incident Response with Retrieval-Augmented Generation",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W7134921078",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4406031118",
+      "arxiv_id": "2501.00332",
+      "pdf_url": "https://arxiv.org/pdf/2501.00332",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Reasoning RAG via System 1 or System 2: A Survey on Reasoning Agentic Retrieval-Augmented Generation for Industry Challenges",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4417351617",
+      "arxiv_id": "2506.10408",
+      "pdf_url": "https://arxiv.org/pdf/2506.10408",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "MMM-RAG: A Multi-Agent Multi-Feature Method for Multimodal Retrieval-Augmented Generation",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W7124205336",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4414588074",
+      "arxiv_id": "2505.20096",
+      "pdf_url": "https://arxiv.org/pdf/2505.20096",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4412505619",
+      "arxiv_id": null,
+      "pdf_url": "https://s-rsa.com/index.php/agi/article/download/15161/11079",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "KA-RAG: Integrating Knowledge Graphs and Agentic Retrieval-Augmented Generation for an Intelligent Educational Question-Answering Model",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4416718508",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.3390/app152312547",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "AI Agents vs. Agentic AI: A Conceptual taxonomy, applications and challenges",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4413427262",
+      "arxiv_id": "2505.10468",
+      "pdf_url": "https://arxiv.org/pdf/2505.10468",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Reasoning RAG via System 1 or System 2: A Survey on Reasoning Agentic Retrieval-Augmented Generation for Industry Challenges",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W7138462460",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2025.findings-ijcnlp.122.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Towards effective teaching assistants: From intent-based chatbots to LLM-powered teaching assistants",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401798175",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.nlp.2024.100101",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Custom Large Language Models Improve Accuracy: Comparing Retrieval Augmented Generation and Artificial Intelligence Agents to Noncustom Models for Evidence‐Based Medicine",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404136861",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Agentic Retrieval-Augmented Generation: Advancing AI-Driven Information Retrieval and Processing",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408581964",
+      "arxiv_id": null,
+      "pdf_url": "https://www.ijcttjournal.org/2025/Volume-73%20Issue-1/IJCTT-V73I1P111.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "M-RAG: Reinforcing Large Language Model Performance through Retrieval-Augmented Generation with Multiple Partitions",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402671970",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.acl-long.108.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "LLM Agents for Smart City Management: Enhancing Decision Support Through Multi-Agent AI Systems",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406842332",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2624-6511/8/1/19/pdf?version=1737737853",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "LLM-Based Framework for Administrative Task Automation in Healthcare",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396918564",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Answering real-world clinical questions using large language model, retrieval-augmented generation, and agentic systems",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411181503",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1177/20552076251348850",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Retrieval-Augmented Generation and LLM Agents for Biomimicry Design Solutions",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4398160786",
+      "arxiv_id": null,
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI-SS/article/download/31210/33370",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Large language model-empowered paradigm for automated geotechnical site planning and geological characterization",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408253686",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "KG-RAG: Bridging the Gap Between Knowledge and Creativity",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4398192568",
+      "arxiv_id": "2405.12035",
+      "pdf_url": "https://arxiv.org/pdf/2405.12035",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "ESGReveal: An LLM-based approach for extracting structured data from ESG reports",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405740139",
+      "arxiv_id": null,
+      "pdf_url": "https://hub.hku.hk/handle/10722/358232",
+      "relevant": false,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Retrieval-Augmented Generation to Generate Knowledge Assets and Creation of Action Drivers",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410952162",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2076-3417/15/11/6247/pdf?version=1748772851",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Ask-EDA: A Design Assistant Empowered by LLM, Hybrid RAG and Abbreviation De-hallucination",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403024007",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Design and evaluation of an Autonomous Cyber Defence agent using DRL and an augmented LLM",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408165425",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.comnet.2025.111162",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "ChatExosome: An Artificial Intelligence (AI) Agent Based on Deep Learning of Exosomes Spectroscopy for Hepatocellular Carcinoma (HCC) Diagnosis",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4407370588",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Hybrid Multi-Agent GraphRAG for E-Government: Towards a Trustworthy AI Assistant",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411026510",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2076-3417/15/11/6315/pdf?version=1749041657",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Chat2Data: An Interactive Data Analysis System with RAG, Vector Databases and LLMs",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404181035",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Advancing Cyber Incident Timeline Analysis Through Retrieval-Augmented Generation and Large Language Models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4407509125",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2073-431X/14/2/67/pdf?version=1739466261",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "RAG-Based AI Agents for Enterprise Software Development: Implementation Patterns and Production Deployment",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W7118784573",
+      "arxiv_id": null,
+      "pdf_url": "https://sprcopen.org/index.php/FAIR/article/download/456/461",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Human guided empathetic AI agent for mental health support leveraging reinforcement learning-enhanced retrieval-augmented generation",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4407852580",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Dynamic Contexts for Generating Suggestion Questions in RAG Based Conversational Systems",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392972260",
+      "arxiv_id": "2403.11413",
+      "pdf_url": "https://arxiv.org/pdf/2403.11413",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404792992",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.emnlp-main.610.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Emotional RAG: Enhancing Role-Playing Agents through Emotional Retrieval",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4407736938",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Towards Explainable Network Intrusion Detection using Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4409261757",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "ChatCNC: Conversational machine monitoring via large language model and real-time data retrieval augmented generation",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4407598256",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "LLM Based Chatbot for Farm-to-Fork Blockchain Traceability Platform",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403074495",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2076-3417/14/19/8856/pdf?version=1728976548",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403781307",
+      "arxiv_id": "2407.12784",
+      "pdf_url": "https://arxiv.org/pdf/2407.12784",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Retrieval-Augmented Generation Based Large Language Model Chatbot for Improving Diagnosis for Physical and Mental Health",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405935155",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "LLM for Data Management",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404181272",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "FinBen: A Holistic Financial Benchmark for Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392019953",
+      "arxiv_id": "2402.12659",
+      "pdf_url": "https://arxiv.org/pdf/2402.12659",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Physical AI Agents: Integrating Cognitive Intelligence with Real-World Action",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4407029652",
+      "arxiv_id": null,
+      "pdf_url": "https://www.qeios.com/read/HA0F5Z/pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391421491",
+      "arxiv_id": "2401.17244",
+      "pdf_url": "https://arxiv.org/pdf/2401.17244",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Improving Large Language Model Applications in the Medical and Nursing Domains With Retrieval-Augmented Generation: Scoping Review",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4415400381",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.2196/80557",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "FACTS About Building Retrieval Augmented Generation-based Chatbots",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400601280",
+      "arxiv_id": "2407.07858",
+      "pdf_url": "https://arxiv.org/pdf/2407.07858",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "BioAgents: Bridging the gap in bioinformatics analysis with multi-agent systems",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4415991135",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41598-025-25919-z.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4408147114",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Labeling-free RAG-enhanced LLM for intelligent fault diagnosis via reinforcement learning",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4414413599",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Legal Query RAG",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4407574904",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1109/access.2025.3542125",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "AI Hiring with LLMs: A Context-Aware and Explainable Multi-Agent Framework for Resume Screening",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4414198596",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4416036851",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2025.emnlp-main.464.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Chain of Agents: Large Language Models Collaborating on Long-Context Tasks",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399443203",
+      "arxiv_id": "2406.02818",
+      "pdf_url": "https://arxiv.org/pdf/2406.02818",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Multi-Agent RAG Chatbot Architecture for Decision Support in Net-Zero Emission Energy Systems",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399373785",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Artificial Intelligence Agent-Enabled Predictive Maintenance: Conceptual Proposal and Basic Framework",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4413380618",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2073-431X/14/8/329/pdf?version=1755247301",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "MaViLa: Unlocking new potentials in smart manufacturing through vision language models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408541205",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.jmsy.2025.02.017",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Natural Language Programming in Medicine: Administering Evidence Based Clinical Workflows with Autonomous Agents Powered by Generative Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390690456",
+      "arxiv_id": "2401.02851",
+      "pdf_url": "https://arxiv.org/pdf/2401.02851",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "BioRAGent: natural language biomedical querying with retrieval-augmented multiagent systems",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4415146860",
+      "arxiv_id": null,
+      "pdf_url": "https://academic.oup.com/bib/article-pdf/26/5/bbaf539/64659570/bbaf539.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Current state of LLM Risks and AI Guardrails",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399912081",
+      "arxiv_id": "2406.12934",
+      "pdf_url": "https://arxiv.org/pdf/2406.12934",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Conversational Large-Language-Model Artificial Intelligence Agent for Accelerated Synthesis of Metal–Organic Frameworks Catalysts in Olefin Hydrogenation",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411572762",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404783875",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.emnlp-main.281.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Enhancing E-Government Services through State-of-the-Art, Modular, and Reproducible Architecture over Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402519590",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.3390/app14188259",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402703527",
+      "arxiv_id": "2408.07611",
+      "pdf_url": "https://arxiv.org/pdf/2408.07611",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4412354933",
+      "arxiv_id": null,
+      "pdf_url": "https://www.qeios.com/read/WS0VIM/pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4417501608",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s43856-025-01283-x_reference.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "An intelligent guided troubleshooting method for aircraft based on HybirdRAG",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410586734",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41598-025-02643-2.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "AutoML-Pipeline: A RAG-Enhanced Code Generation Framework With Pre-Validation for Cloud-Native Machine Learning Workflows",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7135172733",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1109/access.2026.3673923",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Automatic biomarker discovery and enrichment with BRAD",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410092171",
+      "arxiv_id": null,
+      "pdf_url": "https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btaf159/63054849/btaf159.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "BioMaster: Multi-agent System for Automated Bioinformatics Analysis Workflow",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406833248",
+      "arxiv_id": null,
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2025/01/26/2025.01.23.634608.full.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Agentic RAG with Human-in-the-Retrieval",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410887384",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Towards Interpretable Radiology Report Generation via Concept Bottlenecks Using a Multi-agentic RAG",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409183282",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Mitigating the Privacy Issues in Retrieval-Augmented Generation (RAG) via Pure Synthetic Data",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399986892",
+      "arxiv_id": "2406.14773",
+      "pdf_url": "https://arxiv.org/pdf/2406.14773",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Metaopenfoam: An Llm-Based Multi-Agent Framework for Cfd",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401440766",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.2139/ssrn.4921381",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Enhancing Q&amp;A with Domain-Specific Fine-Tuning and Iterative Reasoning: A Comparative Study",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4394973186",
+      "arxiv_id": "2404.11792",
+      "pdf_url": "https://arxiv.org/pdf/2404.11792",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "A self-correcting Agentic Graph RAG for clinical decision support in hepatology",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4417354602",
+      "arxiv_id": null,
+      "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1716327/pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "A Current Review of Generative AI in Medicine: Core Concepts, Applications, and Current Limitations",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409972358",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "ColaCare: Enhancing Electronic Health Record Modeling through Large Language Model-Driven Multi-Agent Collaboration",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409657397",
+      "arxiv_id": null,
+      "pdf_url": "https://www.research.ed.ac.uk/en/publications/685b54b2-4f98-44a6-8783-4dce28f59708",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Hallucination to truth: a review of fact-checking and factuality evaluation in large language models",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7118132038",
+      "arxiv_id": "2508.03860",
+      "pdf_url": "https://arxiv.org/pdf/2508.03860",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Towards a RAG-based summarization for the Electron Ion Collider",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400732384",
+      "arxiv_id": null,
+      "pdf_url": "https://iopscience.iop.org/article/10.1088/1748-0221/19/07/C07006/pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4417313874",
+      "arxiv_id": null,
+      "pdf_url": "https://www.researchsquare.com/article/rs-8330917/latest.pdf",
+      "relevant": false,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Optimizing RAG Techniques for Automotive Industry PDF Chatbots: A Case Study with Locally Deployed Ollama Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402387210",
+      "arxiv_id": "2408.05933",
+      "pdf_url": "https://arxiv.org/pdf/2408.05933",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "An Innovative Solution to Design Problems: Applying the Chain-of-Thought Technique to Integrate LLM-Based Agents With Concept Generation Methods",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404179055",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1109/access.2024.3494054",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "From RAG to Multi-Agent Systems: A Survey of Modern Approaches in LLM Development",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4407206434",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.20944/preprints202502.0406.v1",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Enhancing Visitor Engagement in Interactive Art Exhibitions with Visual-Enhanced Conversational Agents",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408614762",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1145/3708359.3712145",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Sustainable Digitalization of Business with Multi-Agent RAG and LLM",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404835176",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.procs.2024.09.337",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Agentic AI and Large Language Models in Radiology: Opportunities and Hallucination Challenges",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4416721821",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2306-5354/12/12/1303/pdf?version=1764156566",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "NL2ProcessOps: Towards LLM-Guided Code Generation for Process Execution",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402018350",
+      "arxiv_id": null,
+      "pdf_url": "https://hdl.handle.net/11573/1717945",
+      "relevant": false,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "A Scalable Multi-Agent Framework for Low-Resource E-Commerce Concept Extraction and Standardization",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4414552584",
+      "arxiv_id": null,
+      "pdf_url": "https://www.preprints.org/frontend/manuscript/99d4a136eb4e93fb0001bc40c778df4e/download_pub",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "REAPER: Reasoning based Retrieval Planning for Complex RAG Systems",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403577834",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Retrieval Augmented Generation in High Stakes Enterprise Domains. An Architectural Pattern Catalog",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7160047974",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.5281/zenodo.20028436",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "A Question and Answering Service of Typhoon Disasters Based on the T5 Large Language Model",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396888196",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2220-9964/13/5/165/pdf?version=1715693280",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "ENTAgents: AI Agents for Complex Knowledge Otolaryngology",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406140557",
+      "arxiv_id": null,
+      "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2025/01/07/2025.01.01.25319863.full.pdf",
+      "relevant": true,
+      "topic": "agentic RAG retrieval augmented generation"
+    },
+    {
+      "title": "Path planning and collision avoidance technologies for maritime autonomous surface ships: a review of COLREGs compliance, algorithmic trends and the navigation-GPT framework",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W7130661922",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Using LLMs to bridge the gap between consumers and Blockchain on a Agro-food traceability platform: an architectural proposal",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408338698",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.procs.2025.02.126",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Evaluation and mitigation of the limitations of large language models in clinical decision-making",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400324908",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41591-024-03097-1.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Graph of Thoughts: Solving Elaborate Problems with Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393160302",
+      "arxiv_id": null,
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29720/31236",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "A language model assistant for biocatalysis",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404480129",
+      "arxiv_id": null,
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/11/18/2024.11.15.623739.full.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Robotic Action Planning Using Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405363076",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Autonomous Cyber Incident Response Using Reasoning and Action",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411950008",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Can Open Large Language Models Catch Vulnerabilities?",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406779522",
+      "arxiv_id": "2501.12948",
+      "pdf_url": "https://arxiv.org/pdf/2501.12948",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Prompt design for medical question answering with Large Language Models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4415297078",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.mlwa.2025.100758",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "One Sentence Can Kill the Bug: Auto-Replay Mobile App Crashes From One-Sentence Overviews",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4407098050",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Application of Large Language Models and ReAct Prompting in Policy Evidence Collection",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408061807",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.5220/0013243000003890",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Prompt Design for Medical Question Answering with Large Language Models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4413774703",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.2139/ssrn.5405317",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "When large language models meet personalization: perspectives of challenges and opportunities",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400118952",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11280-024-01276-1.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391833078",
+      "arxiv_id": "2402.07927",
+      "pdf_url": "https://arxiv.org/pdf/2402.07927",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Prompt Design for Medical Question Answering with Large Language Models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408247660",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.2139/ssrn.5165960",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Explainable Artificial Intelligence (XAI) 2.0: A manifesto of open challenges and interdisciplinary research directions",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391848979",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.inffus.2024.102301",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "GPT (Generative Pre-Trained Transformer)— A Comprehensive Review on Enabling Technologies, Potential Applications, Emerging Challenges, and Future Directions",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4394828356",
+      "arxiv_id": null,
+      "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10500411.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Toward Interpretable and Persistent Personalization: A Memory-Augmented Agent Framework for LLM-Based Travel Planning",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4416010507",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1109/access.2025.3630495",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Large Language Models: A Survey",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391766565",
+      "arxiv_id": "2402.06196",
+      "pdf_url": "https://arxiv.org/pdf/2402.06196",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "GeneGPT: augmenting large language models with domain tools for improved access to biomedical information",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4366563389",
+      "arxiv_id": "2304.09667",
+      "pdf_url": "https://arxiv.org/pdf/2304.09667",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399837985",
+      "arxiv_id": "2406.12793",
+      "pdf_url": "https://arxiv.org/pdf/2406.12793",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7162262853",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "DiffECG: Diffusion Model-Powered Label-Efficient and Personalized Arrhythmia Diagnosis",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401023556",
+      "arxiv_id": null,
+      "pdf_url": "https://www.ijcai.org/proceedings/2024/0890.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401042753",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.naacl-long.389.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Is it all hype? ChatGPT’s performance and disruptive potential in the accounting and auditing industries",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400091704",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11142-024-09833-9.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "🧜Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4412158322",
+      "arxiv_id": null,
+      "pdf_url": "https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli.a.16/2535477/coli.a.16.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Toolbox of individual-level interventions against online misinformation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396870527",
+      "arxiv_id": null,
+      "pdf_url": "https://admin.research-repository.uwa.edu.au/en/publications/a23e1f54-346e-4c38-8d7d-4f02ebf6b0b2",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Biomni: A General-Purpose Biomedical AI Agent",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411005431",
+      "arxiv_id": null,
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2025/06/02/2025.05.30.656746.full.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401043168",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.naacl-long.219.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Challenging Cognitive Load Theory: The Role of Educational Neuroscience and Artificial Intelligence in Redefining Learning Efficacy",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4407657137",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2076-3425/15/2/203/pdf?version=1739623250",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411100445",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s43018-025-00991-6.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Explainable artificial intelligence: A survey of needs, techniques, applications, and future direction",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399919514",
+      "arxiv_id": "2409.00265",
+      "pdf_url": "https://arxiv.org/pdf/2409.00265",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "RecMind: Large Language Model Powered Agent For Recommendation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401042703",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-naacl.271.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Retrieval-Augmented Generation for AI-Generated Content: A Survey",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393299232",
+      "arxiv_id": "2402.19473",
+      "pdf_url": "https://arxiv.org/pdf/2402.19473",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Prompt Engineering a Prompt Engineer",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402667158",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-acl.21.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4412886823",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2025.acl-long.127.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "A Survey of Generative AI Applications",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399809828",
+      "arxiv_id": null,
+      "pdf_url": "https://thescipub.com/pdf/jcssp.2024.801.818.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Evaluation of large language models for discovery of gene set function",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404824622",
+      "arxiv_id": null,
+      "pdf_url": "https://escholarship.org/content/qt9n29h2mt/qt9n29h2mt.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401042992",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.naacl-long.15.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Using large language models to generate silicon samples in consumer and marketing research: Challenges, opportunities, and guidelines",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391713857",
+      "arxiv_id": null,
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mar.21982",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "ProAgent: Building Proactive Cooperative Agents with Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393147219",
+      "arxiv_id": null,
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29710/31219",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "A Survey of Large Language Models for Graphs",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396945188",
+      "arxiv_id": "2405.08011",
+      "pdf_url": "https://arxiv.org/pdf/2405.08011",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "A dynamic knowledge graph approach to distributed self-driving laboratories",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391132312",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41467-023-44599-9.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Artificial Intelligence and Big Data in Sustainable Entrepreneurship",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W3156012754",
+      "arxiv_id": null,
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/joes.12611",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Tell Me Your Prompts and I Will Make Them True: The Alchemy of Prompt Engineering and Generative AI",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393871063",
+      "arxiv_id": null,
+      "pdf_url": "https://storage.googleapis.com/jnl-up-j-op-files/journals/1/articles/661/660d5a9fa8517.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "A framework for evaluating the chemical knowledge and reasoning abilities of large language models against the expertise of chemists",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410521503",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41557-025-01815-x.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "The generative era of medical AI",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4412392471",
+      "arxiv_id": null,
+      "pdf_url": "https://www.cell.com/cell/pdf/S0092-8674(25)00568-9.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Improving accuracy of GPT-3/4 results on biomedical data using a retrieval-augmented language model",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401726216",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1371/journal.pdig.0000568",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Extending Minds with Generative AI",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410507481",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41467-025-59906-9.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402684046",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-acl.813.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404781813",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.emnlp-main.1245.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4412954363",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s44387-025-00019-5.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Why human–AI relationships need socioaffective alignment",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410827098",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41599-025-04532-5.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "A Survey of Prompt Engineering Methods in Large Language Models for Different NLP Tasks",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402346183",
+      "arxiv_id": "2407.12994",
+      "pdf_url": "https://arxiv.org/pdf/2407.12994",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404781205",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-emnlp.969.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Survey and analysis of hallucinations in large language models: attribution to prompting strategies or model behavior",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4414677042",
+      "arxiv_id": null,
+      "pdf_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1622292/pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Agent-based learning of materials datasets from the scientific literature",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403808131",
+      "arxiv_id": null,
+      "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2024/dd/d4dd00252k",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Explainable AI for 6G Use Cases: Technical Aspects and Research Challenges",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4394862853",
+      "arxiv_id": null,
+      "pdf_url": "https://ieeexplore.ieee.org/ielx7/8782661/8901158/10499970.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409369309",
+      "arxiv_id": null,
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/32007/34162",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402667025",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.acl-long.12.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Creativity and artificial intelligence: A multilevel perspective",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390749074",
+      "arxiv_id": null,
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/caim.12580",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Scaling hermeneutics: a guide to qualitative coding with LLMs for reflexive content analysis",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409166975",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1140/epjds/s13688-025-00548-8.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402670146",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-acl.624.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396718668",
+      "arxiv_id": "2405.02957",
+      "pdf_url": "https://arxiv.org/pdf/2405.02957",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "A comprehensive survey on digital twin for future networks and emerging Internet of Things industry",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393087172",
+      "arxiv_id": null,
+      "pdf_url": "https://hal.science/hal-05547474",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "A Survey of Robot Intelligence with Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403074774",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2076-3417/14/19/8868/pdf?version=1728606677",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399061921",
+      "arxiv_id": "2405.15114",
+      "pdf_url": "https://arxiv.org/pdf/2405.15114",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391116688",
+      "arxiv_id": null,
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI-SS/article/download/27706/27479",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "CRISPR-GPT for Agentic Automation of Gene Editing Experiments",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4395703652",
+      "arxiv_id": null,
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2025/07/26/2024.04.25.591003.full.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Improving Steering and Verification in AI-Assisted Data Analysis with Interactive Task Decomposition",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400375663",
+      "arxiv_id": "2407.02651",
+      "pdf_url": "https://arxiv.org/pdf/2407.02651",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "A MODULAR BENCHMARKING FRAMEWORK FOR EVALUATING LLM-BASED AGENT APPLICATIONS",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7119224602",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.34218/ijrcait_09_01_001",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402671875",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.acl-long.65.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Distributed agency in second language learning and teaching through generative AI",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4413183883",
+      "arxiv_id": null,
+      "pdf_url": "https://scholarspace.manoa.hawaii.edu/bitstreams/0d4fd5bf-985c-4f20-bc91-36edb10863d5/download",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409670780",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3696410.3714892",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Large language model for table processing: a survey",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4391709246",
+      "arxiv_id": "2402.05121",
+      "pdf_url": "https://arxiv.org/pdf/2402.05121",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4394948161",
+      "arxiv_id": "2404.11584",
+      "pdf_url": "https://arxiv.org/pdf/2404.11584",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Toward a Ludic Architecture. The Space of Play and Games",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W121702922",
+      "arxiv_id": null,
+      "pdf_url": "http://repository.cmu.edu/etcpress/5",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "\"I'm Not Sure, But...\": Examining the Impact of Large Language Models' Uncertainty Expression on User Reliance and Trust",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396802056",
+      "arxiv_id": "2405.00623",
+      "pdf_url": "https://arxiv.org/pdf/2405.00623",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "AI Reasoning in Deep Learning Era: From Symbolic AI to Neural–Symbolic AI",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410694526",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2227-7390/13/11/1707/pdf?version=1747964166",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Open-Source Large Language Models in Radiology: A Review and Tutorial for Practical Research and Clinical Deployment",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406904172",
+      "arxiv_id": null,
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11783163/pdf/radiol.241073.pdf",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Veracity‐Oriented Context‐Aware Large Language Models–Based Prompting Optimization for Fake News Detection",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406421219",
+      "arxiv_id": null,
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/int/5920142",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Conversational health agents: a personalized large language model-powered agent framework",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4412065574",
+      "arxiv_id": null,
+      "pdf_url": "https://academic.oup.com/jamiaopen/article-pdf/8/4/ooaf067/63674695/ooaf067.pdf",
+      "relevant": true,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Human and AI collaboration in the higher education environment: opportunities and concerns",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4394582474",
+      "arxiv_id": null,
+      "pdf_url": "https://cognitiveresearchjournal.springeropen.com/counter/pdf/10.1186/s41235-024-00547-9",
+      "relevant": false,
+      "topic": "ReAct reasoning acting language model"
+    },
+    {
+      "title": "Continually Learning Planning Agent for Large Environments guided by LLMs",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401110047",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Large Language Models for Data Annotation and Synthesis: A Survey",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404783774",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.emnlp-main.54.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Advancing Intelligent Personal Assistants for Human Spaceflight",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4395686609",
+      "arxiv_id": "2404.16130",
+      "pdf_url": "https://arxiv.org/pdf/2404.16130",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Navigating the metaverse: unraveling the impact of artificial intelligence—a comprehensive review and gap analysis",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402028823",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10462-024-10881-5.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Integrating large language model and digital twins in the context of industry 5.0: Framework, challenges and opportunities",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4407325419",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "A Survey on Large Language Models for Code Generation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399357038",
+      "arxiv_id": "2406.00515",
+      "pdf_url": "https://arxiv.org/pdf/2406.00515",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Future of ADHD Care: Evaluating the Efficacy of ChatGPT in Therapy Enhancement",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392970427",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2227-9032/12/6/683/pdf?version=1710816818",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Debug like a Human: A Large Language Model Debugger via Verifying Runtime Execution Step by Step",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402670687",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-acl.49.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402671783",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.acl-long.586.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Inductive thematic analysis of healthcare qualitative interviews using open-source large language models: How does it compare to traditional methods?",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400953813",
+      "arxiv_id": null,
+      "pdf_url": "https://rke.abertay.ac.uk/ws/files/81476151/DePaoli_InductiveThematicAnalysis_Accepted_2024.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Reinforcement Learning for Generative AI: State of the Art, Opportunities and Open Research Challenges",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391609325",
+      "arxiv_id": null,
+      "pdf_url": "https://jair.org/index.php/jair/article/download/15278/27007",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Stance Detection with Collaborative Role-Infused LLM-Based Agents",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399205331",
+      "arxiv_id": null,
+      "pdf_url": "https://ojs.aaai.org/index.php/ICWSM/article/download/31360/33520",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "MapCoder: Multi-Agent Code Generation for Competitive Problem Solving",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402671883",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.acl-long.269.pdf",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Large Language Models are Learnable Planners for Long-Term Recommendation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392490033",
+      "arxiv_id": "2403.00843",
+      "pdf_url": "https://arxiv.org/pdf/2403.00843",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Large Language Models for Data Annotation and Synthesis: A Survey",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392085924",
+      "arxiv_id": "2402.13446",
+      "pdf_url": "https://arxiv.org/pdf/2402.13446",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "A Survey on Knowledge Distillation of Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392019445",
+      "arxiv_id": "2402.13116",
+      "pdf_url": "https://arxiv.org/pdf/2402.13116",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "ADaPT: As-Needed Decomposition and Planning with Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401043434",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-naacl.264.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Generating Automatic Feedback on UI Mockups with Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393064140",
+      "arxiv_id": "2403.13139",
+      "pdf_url": "https://arxiv.org/pdf/2403.13139",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402671652",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.acl-long.292.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "DebugBench: Evaluating Debugging Capability of Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402684113",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-acl.247.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "TopicGPT: A Prompt-based Topic Modeling Framework",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401043789",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.naacl-long.164.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Prompt Design and Engineering: Introduction and Advanced Methods",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391334917",
+      "arxiv_id": "2401.14423",
+      "pdf_url": "https://arxiv.org/pdf/2401.14423",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Agent Laboratory: Using LLM Agents as Research Assistants",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4416035220",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2025.findings-emnlp.320.pdf",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "LightVA: Lightweight Visual Analytics With LLM Agent-Based Task Planning and Execution",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404371576",
+      "arxiv_id": "2411.05651",
+      "pdf_url": "https://arxiv.org/pdf/2411.05651",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Understanding the Weakness of Large Language Model Agents within a Complex Android Environment",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401863510",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3637528.3671650",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Explainable automated debugging via large language model-driven scientific debugging",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405556610",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10664-024-10594-x.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Large Language Model-based Human-Agent Collaboration for Complex Task Solving",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404782367",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-emnlp.72.pdf",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "R-Judge: Benchmarking Safety Risk Awareness for LLM Agents",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404782219",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-emnlp.79.pdf",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Artificial cognition vs. artificial intelligence for next-generation autonomous robotic agents",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393091332",
+      "arxiv_id": null,
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fncom.2024.1349408/pdf?isPublishedV2=False",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "AutoAct: Automatic Agent Learning from Scratch for QA via Self-Planning",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402671772",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.acl-long.165.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "A review of LLMs and their applications in the architecture, engineering and construction industry",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410453424",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10462-025-11241-7.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Large Language Models Are Neurosymbolic Reasoners",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393160365",
+      "arxiv_id": null,
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29754/31298",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Factuality of Large Language Models: A Survey",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404782463",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.emnlp-main.1088.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "The Brain Abstracted",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392214618",
+      "arxiv_id": null,
+      "pdf_url": "https://direct.mit.edu/books/oa-monograph/5741/bookpreview-pdf/2345165",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391591592",
+      "arxiv_id": "2402.01622",
+      "pdf_url": "https://arxiv.org/pdf/2402.01622",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390832893",
+      "arxiv_id": "2401.05459",
+      "pdf_url": "https://arxiv.org/pdf/2401.05459",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "The Western Greece Soil Information System (WΕSIS)—A Soil Health Design Supported by the Internet of Things, Soil Databases, and Artificial Intelligence Technologies in Western Greece",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4395000212",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2071-1050/16/8/3478/pdf?version=1713759565",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "A Philosophical Introduction to Language Models -- Part I: Continuity With Classic Debates",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390723527",
+      "arxiv_id": "2401.03910",
+      "pdf_url": "https://arxiv.org/pdf/2401.03910",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Multi-Step Reasoning with Large Language Models, a Survey",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403754500",
+      "arxiv_id": "2407.11511",
+      "pdf_url": "https://arxiv.org/pdf/2407.11511",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Generalization potential of large language models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405463625",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00521-024-10827-6.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Human-AI collaboration to identify literature for evidence synthesis",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400582718",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.crsus.2024.100132",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Large Language Models Meet NLP: A Survey",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4398230331",
+      "arxiv_id": "2405.12819",
+      "pdf_url": "https://arxiv.org/pdf/2405.12819",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Towards end-to-end automation of AI research",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7140287209",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41586-026-10265-5.pdf",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "AutoDev: Automated AI-Driven Development",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392822461",
+      "arxiv_id": "2403.08299",
+      "pdf_url": "https://arxiv.org/pdf/2403.08299",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4398191705",
+      "arxiv_id": "2405.11106",
+      "pdf_url": "https://arxiv.org/pdf/2405.11106",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406549374",
+      "arxiv_id": "2501.09686",
+      "pdf_url": "https://arxiv.org/pdf/2501.09686",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Agent Laboratory: Using LLM Agents as Research Assistants",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406231153",
+      "arxiv_id": "2501.04227",
+      "pdf_url": "https://arxiv.org/pdf/2501.04227",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4406492615",
+      "arxiv_id": "2408.03314",
+      "pdf_url": "https://arxiv.org/pdf/2408.03314",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "TextGrad: Automatic \"Differentiation\" via Text",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399655920",
+      "arxiv_id": "2406.07496",
+      "pdf_url": "https://arxiv.org/pdf/2406.07496",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "PRefLexOR: preference-based recursive language modeling for exploratory optimization of reasoning and agentic thinking",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410374120",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s44387-025-00003-z.pdf",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Artificial Intelligence and Privacy",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4398157149",
+      "arxiv_id": null,
+      "pdf_url": "https://tidsskrift.dk/privacy_studies_journal/article/download/143099/188554",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "LLM-A*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404783553",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-emnlp.60.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402670103",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-acl.701.pdf",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411113092",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2025.findings-naacl.205.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Teams of LLM Agents can Exploit Zero-Day Vulnerabilities",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399404894",
+      "arxiv_id": "2406.01637",
+      "pdf_url": "https://arxiv.org/pdf/2406.01637",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Embedding Fear in Medical AI: A Risk-Averse Framework for Safety and Ethics",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410359765",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2673-2688/6/5/101/pdf?version=1747288844",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Efficient Prompting Methods for Large Language Models: A Survey",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393739747",
+      "arxiv_id": "2404.01077",
+      "pdf_url": "https://arxiv.org/pdf/2404.01077",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "It’s Scary to Use It, It’s Scary to Refuse It: The Psychological Dimensions of AI Adoption—Anxiety, Motives, and Dependency",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406933120",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2079-8954/13/2/82/pdf?version=1738132925",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "TEaR: Improving LLM-based Machine Translation with Systematic Self-Refinement",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411113160",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2025.findings-naacl.218.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "LLMs cannot find reasoning errors, but can correct them given the error location",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402670356",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-acl.826.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "What is the impact of fine-tuning on negative interaction trajectories versus positive-only trajectories for L",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7162653920",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.5281/zenodo.20423641",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key?",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402672029",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.acl-long.331.pdf",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "What is the impact of fine-tuning on negative interaction trajectories versus positive-only trajectories for L",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7162697786",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.5281/zenodo.20423642",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Prompt Optimization for LLM Code Generation via Reinforcement Learning",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7162044111",
+      "arxiv_id": "2605.19102",
+      "pdf_url": "https://arxiv.org/pdf/2605.19102",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392011725",
+      "arxiv_id": "2402.11518",
+      "pdf_url": "https://arxiv.org/pdf/2402.11518",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402671855",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.acl-long.61.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Embracing the future—is artificial intelligence already better? A comparative study of artificial intelligence performance in diagnostic accuracy and decision‐making",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390975604",
+      "arxiv_id": null,
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ene.16195",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Don’t Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402671287",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.acl-long.786.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401043235",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.naacl-long.23.pdf",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400519043",
+      "arxiv_id": "2407.06886",
+      "pdf_url": "https://arxiv.org/pdf/2407.06886",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Agentic LLM Workflows for Generating Patient-Friendly Medical Reports",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4406443929",
+      "arxiv_id": "2408.01112",
+      "pdf_url": "https://arxiv.org/pdf/2408.01112",
+      "relevant": true,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Best Practices and Lessons Learned on Synthetic Data",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4394781039",
+      "arxiv_id": "2404.07503",
+      "pdf_url": "https://arxiv.org/pdf/2404.07503",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Internet of Agents: Fundamentals, Applications, and Challenges",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4415368556",
+      "arxiv_id": "2505.07176",
+      "pdf_url": "https://arxiv.org/pdf/2505.07176",
+      "relevant": false,
+      "topic": "Reflexion language agent reinforcement"
+    },
+    {
+      "title": "Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401043688",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2024.findings-naacl.22.pdf",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Tool Learning in the Wild: Empowering Language Models as Automatic Tool Agents",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409657210",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3696410.3714825",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Why we need to be careful with LLMs in medicine",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405021649",
+      "arxiv_id": null,
+      "pdf_url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1495582/pdf",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "AI Agents in Clinical Medicine: A Systematic Review",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4413638854",
+      "arxiv_id": null,
+      "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2025/08/26/2025.08.22.25334232.full.pdf",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Consistent Game Content Creation via Function Calling for Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401943517",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.5281/zenodo.13330093",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "xLAM: A Family of Large Action Models to Empower AI Agent Systems",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403556044",
+      "arxiv_id": "2409.03215",
+      "pdf_url": "https://arxiv.org/pdf/2409.03215",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4416513617",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "GraphTool-Instruction: Revolutionizing Graph Reasoning in LLMs through Decomposed Subtask Instruction",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409158571",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Granite-Function Calling Model: Introducing Function Calling Abilities via Multi-task Learning of Granular Tasks",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400267079",
+      "arxiv_id": "2407.00121",
+      "pdf_url": "https://arxiv.org/pdf/2407.00121",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Differential effects of GPT-based tools on comprehension of standardized passages",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408095816",
+      "arxiv_id": null,
+      "pdf_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1506752/pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4415020794",
+      "arxiv_id": "2505.13940",
+      "pdf_url": "https://arxiv.org/pdf/2505.13940",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Using Metaprogramming Tools of the Common Lisp Language for the Development of Emulator Systems",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391275633",
+      "arxiv_id": null,
+      "pdf_url": "https://uprinmatus.elpub.ru/jour/article/download/144/126",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Asynchronous LLM Function Calling",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405255057",
+      "arxiv_id": "2412.07017",
+      "pdf_url": "https://arxiv.org/pdf/2412.07017",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "ADMETlab 3.0: an updated comprehensive online ADMET prediction platform enhanced with broader coverage, improved performance, API functionality and decision support",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393936599",
+      "arxiv_id": null,
+      "pdf_url": "https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkae236/57155639/gkae236.pdf",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Applying Large Language Model Analysis and Backend Web Services in Regulatory Technologies for Continuous Compliance Checks",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4407880928",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/1999-5903/17/3/100/pdf?version=1740215341",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "The Galaxy platform for accessible, reproducible, and collaborative data analyses: 2024 update",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4398182689",
+      "arxiv_id": null,
+      "pdf_url": "https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkae410/57769802/gkae410.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Real Time Inventory Management System powered by Generative User Interface",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396585101",
+      "arxiv_id": null,
+      "pdf_url": "https://ijsrem.com/download/real-time-inventory-management-system-powered-by-generative-user-interface/?wpdmdl=32377&refresh=6949a54c0c6e51766434124",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "GeoBenchX: Benchmarking LLMs in Agent Solving Multistep Geospatial Tasks",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4415697200",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Automatic Control With Human-Like Reasoning: Exploring Language Model Embodied Air Traffic Agents",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403668311",
+      "arxiv_id": "2409.09717",
+      "pdf_url": "https://arxiv.org/pdf/2409.09717",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391855109",
+      "arxiv_id": null,
+      "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10433480.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "MetaFFI-Multilingual Indirect Interoperability System",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4413658945",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2674-113X/4/3/21/pdf?version=1756198339",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Chat-RSC: interactive remote sensing image classification via large language models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411404847",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1080/17538947.2025.2519999",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "ChatGPT for Robotics: Design Principles and Model Abilities",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4394828156",
+      "arxiv_id": null,
+      "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10500490.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391632221",
+      "arxiv_id": "2402.04253",
+      "pdf_url": "https://arxiv.org/pdf/2402.04253",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "How to Interpret Statistical Models Using <b>marginaleffects</b> for <i>R</i> and <i>Python</i>",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404880964",
+      "arxiv_id": null,
+      "pdf_url": "https://www.jstatsoft.org/index.php/jss/article/download/v111i09/4641",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "ChatGPT is bullshit",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399465031",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10676-024-09775-5.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Computing Education in the Era of Generative AI",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390985631",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3624720",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Self-Programming AI: Code-Learning Agents for Autonomous Refactoring and Architectural Evolution",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410523928",
+      "arxiv_id": null,
+      "pdf_url": "https://www.researchsquare.com/article/rs-6688473/latest.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392679398",
+      "arxiv_id": "2403.05530",
+      "pdf_url": "https://arxiv.org/pdf/2403.05530",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Balancing Privacy and Progress: A Review of Privacy Challenges, Systemic Oversight, and Patient Perceptions in AI-Driven Healthcare",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390829176",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2076-3417/14/2/675/pdf?version=1705396255",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Artificial intelligence in medicine: A primer and recommendation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4394962090",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "A meta systematic review of artificial intelligence in higher education: a call for increased ethics, collaboration, and rigour",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391006361",
+      "arxiv_id": null,
+      "pdf_url": "https://educationaltechnologyjournal.springeropen.com/counter/pdf/10.1186/s41239-023-00436-z",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Oral Literature in Africa",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W4238795315",
+      "arxiv_id": null,
+      "pdf_url": "https://books.openbookpublishers.com/10.11647/obp.0025.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Integrating Large Language Models and the iDigBio Portal for Conversational Data Exploration and Retrieval",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404726321",
+      "arxiv_id": null,
+      "pdf_url": "https://biss.pensoft.net/article/142696/download/pdf/",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Decoding the mystery: AI-assisted bioinformatics and functional genomics technologies in medicinal plants",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4414714631",
+      "arxiv_id": null,
+      "pdf_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1678483/pdf",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Hardware implementation of memristor-based artificial neural networks",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392367648",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41467-024-45670-9.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Generative artificial intelligence in innovation management: A preview of future research developments",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391830676",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.jbusres.2024.114542",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Testing theory of mind in large language models and humans",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4398143508",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41562-024-01882-z.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Reinvent 4: Modern AI–driven generative molecule design",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392015344",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1186/s13321-024-00812-5.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "\"Do Anything Now\": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405181600",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3658644.3670388",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Enhancing Work Productivity through Generative Artificial Intelligence: A Comprehensive Literature Review",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391361874",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2071-1050/16/3/1166/pdf?version=1706610296",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Potential Meets Practicality: <scp>AI</scp>'s Current Impact on the Evidence Generation and Synthesis Pipeline in Health Economics",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409146394",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1111/cts.70206",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Structured Prompt Interrogation and Recursive Extraction of Semantics (SPIRES): a method for populating knowledge bases using zero-shot learning",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392619039",
+      "arxiv_id": null,
+      "pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/40/3/btae104/56912793/btae104.pdf",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "On the Limits of Artificial Intelligence (AI) in Education",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391439498",
+      "arxiv_id": null,
+      "pdf_url": "https://pedagogikkogkritikk.no/index.php/ntpk/article/download/6062/9572",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "AI deception: A survey of examples, risks, and potential solutions",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396796749",
+      "arxiv_id": null,
+      "pdf_url": "http://www.cell.com/article/S266638992400103X/pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "PubTator 3.0: an AI-powered literature resource for unlocking biomedical knowledge",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4393936594",
+      "arxiv_id": null,
+      "pdf_url": "https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkae235/57155655/gkae235.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Loneliness and suicide mitigation for students using GPT3-enabled chatbots",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391105189",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s44184-023-00047-6.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Artificial Intelligence in Oncology: Current Landscape, Challenges, and Future Directions",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4394695940",
+      "arxiv_id": null,
+      "pdf_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/doi/10.1158/2159-8290.CD-23-1199/3431952/cd-23-1199.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4394769342",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3597503.3639117",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Convergence of evolving artificial intelligence and machine learning techniques in precision oncology",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4407028552",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41746-025-01471-y.pdf",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "The evolving field of digital mental health: current evidence and implementation issues for smartphone apps, generative artificial intelligence, and virtual reality",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410407192",
+      "arxiv_id": null,
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wps.21299",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "ProtAgents: protein discovery <i>via</i> large language model multi-agent collaborations combining physics and machine learning",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4397004462",
+      "arxiv_id": null,
+      "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2024/dd/d4dd00013g",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Unlocking precision medicine: clinical applications of integrating health records, genetics, and immunology through artificial intelligence",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4407204088",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1186/s12929-024-01110-w.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Desirable Characteristics for AI Teaching Assistants in Programming Education",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4398796607",
+      "arxiv_id": "2405.14178",
+      "pdf_url": "https://arxiv.org/pdf/2405.14178",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "When artificial intelligence substitutes humans in higher education: the cost of loneliness, student success, and retention",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392764062",
+      "arxiv_id": null,
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/03075079.2024.2326956?needAccess=true",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "AI generates covertly racist decisions about people based on their dialect",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401947350",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41586-024-07856-5.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Transforming Clinical Research: The Power of High-Throughput Omics Integration",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402318685",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2227-7382/12/3/25/pdf?version=1725606305",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Scalable and efficient DNA sequencing analysis on different compute infrastructures aiding variant discovery",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4395468216",
+      "arxiv_id": null,
+      "pdf_url": "https://academic.oup.com/nargab/article-pdf/6/2/lqae031/57331171/lqae031.pdf",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "The Educational Affordances and Challenges of ChatGPT: State of the Field",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391914260",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11528-024-00939-0.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Artificial intelligence-driven method for the discovery and prevention of distributed denial of service attacks",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404852804",
+      "arxiv_id": null,
+      "pdf_url": "https://ijai.iaescore.com/index.php/IJAI/article/download/25175/14377",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "LaMI: Large Language Models for Multi-Modal Human-Robot Interaction",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391417118",
+      "arxiv_id": "2401.15174",
+      "pdf_url": "https://arxiv.org/pdf/2401.15174",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Mental-LLM",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392503764",
+      "arxiv_id": null,
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11806945/pdf/nihms-2052486.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Large language models and their applications in bioinformatics",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403118713",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.csbj.2024.09.031",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Academic communication with AI-powered language tools in higher education: From a post-humanist perspective",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390768058",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.system.2024.103225",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Handbook of Research on K-12 Online and Blended Learning",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W1534098791",
+      "arxiv_id": null,
+      "pdf_url": "http://repository.cmu.edu/etcpress/28",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "A survey of safety and trustworthiness of large language models through the lens of verification and validation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399750638",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10462-024-10824-0.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Generative Artificial Intelligence in Learning Analytics: Contextualising Opportunities and Challenges through the Learning Analytics Cycle",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4389325641",
+      "arxiv_id": "2312.00087",
+      "pdf_url": "https://arxiv.org/pdf/2312.00087",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "\"We Need Structured Output\": Towards User-centered Constraints on Large Language Model Output",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4394780772",
+      "arxiv_id": "2404.07362",
+      "pdf_url": "https://arxiv.org/pdf/2404.07362",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Advances in genomic tools for plant breeding: harnessing DNA molecular markers, genomic selection, and genome editing",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404093123",
+      "arxiv_id": null,
+      "pdf_url": "https://biolres.biomedcentral.com/counter/pdf/10.1186/s40659-024-00562-6",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Intelligent Robotics—A Systematic Review of Emerging Technologies and Trends",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391360623",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2079-9292/13/3/542/pdf?version=1706537048",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Language-based game theory in the age of artificial intelligence",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392768505",
+      "arxiv_id": "2403.08944",
+      "pdf_url": "https://arxiv.org/pdf/2403.08944",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "AI and ethics: Investigating the first policy responses of higher education institutions to the challenge of generative AI",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401359717",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41599-024-03526-z.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Rising to Meet the Challenge of Generative AI",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391776794",
+      "arxiv_id": null,
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jlse.12141",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Leveraging generative AI for urban digital twins: a scoping review on the autonomous generation of urban data, scenarios, designs, and 3D city models for smart city advancement",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403371192",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44212-024-00060-w.pdf",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "The Era of Artificial Intelligence Deception: Unraveling the Complexities of False Realities and Emerging Threats of Misinformation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4398256042",
+      "arxiv_id": null,
+      "pdf_url": "https://www.mdpi.com/2078-2489/15/6/299/pdf?version=1716472845",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "The potential application of artificial intelligence in veterinary clinical practice and biomedical research",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391400075",
+      "arxiv_id": null,
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fvets.2024.1347550/pdf?isPublishedV2=False",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Artificial intelligence (AI)—it’s the end of the tox as we know it (and I feel fine)*",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391044499",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00204-023-03666-2.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Power to Detect What? Considerations for Planning and Evaluating Sample Size",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391754649",
+      "arxiv_id": null,
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/10888683241228328",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Talk2Care: An LLM-based Voice Assistant for Communication between Healthcare Providers and Older Adults",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396919238",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3659625",
+      "relevant": true,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Standardizing digital biobanks: integrating imaging, genomic, and clinical data for precision medicine",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391543515",
+      "arxiv_id": null,
+      "pdf_url": "https://translational-medicine.biomedcentral.com/counter/pdf/10.1186/s12967-024-04891-8",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Towards trustworthy LLMs: a review on debiasing and dehallucinating in large language models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401484139",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10462-024-10896-y.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Discrimination, artificial intelligence, and algorithmic decision-making",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W2992233710",
+      "arxiv_id": "2510.13465",
+      "pdf_url": "https://arxiv.org/pdf/2510.13465",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "AI hype as a cyber security risk: the moral responsibility of implementing generative AI in business",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4392106982",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s43681-024-00443-4.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "DB-GPT: Large Language Model Meets Database",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4391032878",
+      "arxiv_id": null,
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s41019-023-00235-6.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "A generalized platform for artificial intelligence-powered autonomous enzyme engineering",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411887054",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41467-025-61209-y.pdf",
+      "relevant": false,
+      "topic": "tool use function calling language model"
+    },
+    {
+      "title": "Large Language Model-Enabled Multi-Agent Manufacturing Systems",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403675277",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405427526",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Multi-agent systems powered by large language models: applications in swarm intelligence",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410551457",
+      "arxiv_id": null,
+      "pdf_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1593017/pdf",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "A Large language model-based multi-agent manufacturing system for intelligent shopfloors",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4414413551",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "A Large Language Model-based multi-agent manufacturing system for intelligent shopfloor",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399116147",
+      "arxiv_id": "2405.16887",
+      "pdf_url": "https://arxiv.org/pdf/2405.16887",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Benchmarking Large Language Models for Multi-agent Systems: A Comparative Analysis of AutoGen, CrewAI, and TaskWeaver",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404481306",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Beyond Chatbots: Enhancing Luxembourgish Language Learning Through Multi-agent Systems and Large Language Model",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404445814",
+      "arxiv_id": null,
+      "pdf_url": "https://orbilu.uni.lu/bitstream/10993/64852/1/Beyond_Chatbots__Enhancing_Language_Learning_Through_Multi_Agent_Systems_and_LLM.pdf",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "<i>The Truth Becomes Clearer Through Debate!</i> Multi-Agent Systems with Large Language Models Unmask Fake News",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4412377122",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3726302.3730092",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Modular Task Decomposition and Dynamic Collaboration in Multi-Agent Systems Driven by Large Language Models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W7131091454",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Contextual Trust Evaluation for Robust Coordination in Large Language Model Multi-Agent Systems",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W7133713463",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Large language model-driven multi-agent systems for improving production efficiency and reducing carbon emissions in manufacturing",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411111367",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Autonomous inverse modeling of complex groundwater systems via a physics-integrated large language model multi-agent framework",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7150111973",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Knowledge Tagging with Large Language Model Based Multi-Agent System",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409361799",
+      "arxiv_id": null,
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/35141/37296",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "A Multi-Agent System for Cybersecurity Threat Detection and Correlation Using Large Language Models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4413556821",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1109/access.2025.3602681",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Dynamic Multi-Agent Orchestration and Retrieval for Multi-Source Question-Answer Systems using Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405617420",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.5121/ijci.2024.130602",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "An Interview System Based on Large Language Models and Multi-Agent Interactions",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403211537",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Beyond Text: Implementing Multimodal Large Language Model-Powered Multi-Agent Systems Using a No-Code Platform",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409418512",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.13088/jiis.2025.31.1.191",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4395443406",
+      "arxiv_id": "2404.14777",
+      "pdf_url": "https://arxiv.org/pdf/2404.14777",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "A Large Language Model-Enabled Control Architecture for Dynamic Resource Capability Exploration in Multi-Agent Manufacturing Systems",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4414432626",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Large Language Model Applied in Multi-agent System—A Survey",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404727890",
+      "arxiv_id": null,
+      "pdf_url": "https://www.ewadirect.com/proceedings/ace/article/view/17486/pdf",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Multi-agent systems of large language models as weight assigners: An approach to collaborative weighting in spatial multi-criteria decision-making",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4414105009",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.geomat.2025.100071",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390832285",
+      "arxiv_id": "2401.02705",
+      "pdf_url": "https://arxiv.org/pdf/2401.02705",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Norm Violation Detection in Multi-Agent Systems Using Large Language Models",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408121443",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Mitigating Large Vision-Language Model Hallucination at Post-hoc via Multi-agent System",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404187935",
+      "arxiv_id": null,
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI-SS/article/download/31780/33947",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Leveraging Multi-Agent Systems and Large Language Models for Diabetes Knowledge Graphs",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4406460380",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Large Language Model-Enabled Multi-Agent Manufacturing Systems",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399406538",
+      "arxiv_id": "2406.01893",
+      "pdf_url": "https://arxiv.org/pdf/2406.01893",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "MindScope: Exploring Cognitive Biases in Large Language Models Through Multi-Agent Systems",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403487358",
+      "arxiv_id": null,
+      "pdf_url": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA240879",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances, Resources, and Future Directions",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4416034752",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2025.findings-emnlp.683.pdf",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Leveraging Multi-agent System Powered by Large Language Model to Improve Transparency and Reliability in Automated Supply Chain Coordination",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4414549039",
+      "arxiv_id": null,
+      "pdf_url": "https://iglcstorage.blob.core.windows.net/papers/attachment-dedb37f0-e492-4469-b5d6-c45a6b57aa7c.pdf",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Beyond Text: Implementing Multimodal Large Language Model-Powered Multi-Agent Systems Using a No-Code Platform",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406032272",
+      "arxiv_id": "2501.00750",
+      "pdf_url": "https://arxiv.org/pdf/2501.00750",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Adversarial and Cooperation Tasks in Multi- Agent System with Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4406729014",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Large Language Model Based Multi-Agent System Augmented Complex Event Processing Pipeline for Internet of Multimedia Things",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406032746",
+      "arxiv_id": "2501.00906",
+      "pdf_url": "https://arxiv.org/pdf/2501.00906",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "MCMAS: Causality-driven collaborative optimization in low-carbon industrial parks with large language models-empowered multi-agent systems",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4417483581",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Orchestrating Multi-Agent Systems for Multi-Source Information Retrieval and Question Answering with Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4406462654",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.5121/ijnlc.2024.13603",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Making waves: A conceptual framework exploring how large language model-based multi-agent systems could reshape water engineering",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4417280508",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.watres.2025.125157",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "InvAgent: A Large Language Model based Multi-Agent System for Inventory Management in Supply Chains",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403754117",
+      "arxiv_id": "2407.11384",
+      "pdf_url": "https://arxiv.org/pdf/2407.11384",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Biases in Opinion Dynamics in Multi-Agent Systems of Large Language Models: A Case Study on Funding Allocation",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4411113253",
+      "arxiv_id": null,
+      "pdf_url": "https://aclanthology.org/2025.findings-naacl.101.pdf",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Advantages and Inconveniences of a Multi-Agent Large Language Model System to Mitigate Cognitive Biases in Diagnostic Challenges",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405251765",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.2196/69742",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "AI-Press: A Multi-Agent News Generating and Feedback Simulation System Powered by Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403364492",
+      "arxiv_id": "2410.07561",
+      "pdf_url": "https://arxiv.org/pdf/2410.07561",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Multi-Agent Approach to Political Discourse Translation: From Large Language Models to MAGIC-PTF System",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404188027",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.25136/2409-8698.2024.11.72197",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "TopoMAS: Large Language Model Driven Topological Materials Multi‐Agent System",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7124684255",
+      "arxiv_id": null,
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mgea.70045",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Transforming Software Development: A Study on the Integration of Multi-Agent Systems and Large Language Models for Automatic Code Generation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405522181",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Development of a Large Language Model-based Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402703529",
+      "arxiv_id": "2408.07531",
+      "pdf_url": "https://arxiv.org/pdf/2408.07531",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "MindScope: Exploring cognitive biases in large language models through Multi-Agent Systems",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403963936",
+      "arxiv_id": "2410.04452",
+      "pdf_url": "https://arxiv.org/pdf/2410.04452",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Enhancing Natural Language Retrieval of BIM Data through Integration of Large Language Models with Multi-Agent Systems",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4414834183",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Visual Analysis of Time Series Data for Multi-Agent Systems Driven by Large Language Models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4407705360",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "When Embodied AI Meets Industry 5.0: Human-Centered Smart Manufacturing",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4408100174",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "SciAgents: Automating Scientific Discovery Through Bioinspired Multi‐Agent Intelligent Graph Reasoning",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4405599065",
+      "arxiv_id": null,
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.202413523",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Agent AI: Surveying the Horizons of Multimodal Interaction",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4390722514",
+      "arxiv_id": "2401.03568",
+      "pdf_url": "https://arxiv.org/pdf/2401.03568",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402753889",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "VideoAgent: Long-Form Video Understanding with Large Language Model as Agent",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403760933",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "AutoGenesisAgent: Self-Generating Multi-Agent Systems for Complex Tasks",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396243481",
+      "arxiv_id": "2404.17017",
+      "pdf_url": "https://arxiv.org/pdf/2404.17017",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "PharmaBench: Enhancing ADMET benchmarks with large language models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402429489",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41597-024-03793-0.pdf",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "See Widely, Think Wisely: Toward Designing a Generative Multi-agent System to Burst Filter Bubbles",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396833131",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3613904.3642545",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "ContextCam: Bridging Context Awareness with Creative Human-AI Image Co-Creation",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4396833179",
+      "arxiv_id": null,
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3613904.3642129",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Decision-Oriented Dialogue for Human-AI Collaboration",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4401208924",
+      "arxiv_id": null,
+      "pdf_url": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00679/2464086/tacl_a_00679.pdf",
+      "relevant": false,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Fine-tuning a large language model for automating computational fluid dynamics simulations",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409725706",
+      "arxiv_id": "2504.09602",
+      "pdf_url": "https://arxiv.org/pdf/2504.09602",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "An agentic system for rare disease diagnosis with traceable reasoning",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7130436101",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41586-025-10097-9.pdf",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Mitigating reasoning hallucination through Multi-agent Collaborative Filtering",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404409655",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Lifelike agility and play in quadrupedal robots using reinforcement learning and generative pre-trained models",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400362143",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Agentic Large Language Models, a Survey",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4409318329",
+      "arxiv_id": "2503.23037",
+      "pdf_url": "https://arxiv.org/pdf/2503.23037",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "A Research Landscape of Agentic AI and Large Language Models: Applications, Challenges and Future Directions",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4413222071",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.3390/a18080499",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Synthetic Participatory Planning of Shared Automated Electric Mobility Systems",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4394972221",
+      "arxiv_id": "2404.12317",
+      "pdf_url": "https://arxiv.org/pdf/2404.12317",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "An Intelligent LLM-Powered Personalized Assistant for Digital Banking Using LangGraph and Chain of Thoughts",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404057505",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction using longitudinal clinical notes",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4413472898",
+      "arxiv_id": null,
+      "pdf_url": "https://www.nature.com/articles/s41746-025-01940-4.pdf",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Multi-agent, human–agent and beyond: A survey on cooperation in social dilemmas",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4402290389",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "AVA: Towards Autonomous Visualization Agents through Visual Perception‐Driven Decision‐Making",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4399492331",
+      "arxiv_id": null,
+      "pdf_url": "https://www.osti.gov/biblio/2396421",
+      "relevant": false,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "From intention to implementation: automating biomedical research via LLMs",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4405355275",
+      "arxiv_id": "2412.09429",
+      "pdf_url": "https://arxiv.org/pdf/2412.09429",
+      "relevant": false,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Large Language Models for Cyber Security: A Systematic Literature Review",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4414594130",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406657140",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.2139/ssrn.5106265",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Semantic Information Extraction and Multi-Agent Communication Optimization Based on Generative Pre-Trained Transformer",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403511053",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Enabling Mobile AI Agent in 6G Era: Architecture and Key Technologies",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4400646316",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "From Data to Story: Towards Automatic Animated Data Video Creation with LLM-Based Multi-Agent Systems",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404739721",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "TRiSM for Agentic AI: A review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems",
+      "year": 2026,
+      "openalex_id": "https://openalex.org/W7133236347",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1016/j.aiopen.2026.02.006",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Traffic Performance GPT (TP-GPT): Real-Time Data Informed Intelligent ChatBot for Transportation Surveillance and Management",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4408699823",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Towards LLM-augmented multiagent systems for agile software engineering",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4403536979",
+      "arxiv_id": null,
+      "pdf_url": "https://doi.org/10.1145/3691620.3695336",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "Enhancing Financial Question Answering with a Multi-Agent Reflection Framework",
+      "year": 2024,
+      "openalex_id": "https://openalex.org/W4404341031",
+      "arxiv_id": "2410.21741",
+      "pdf_url": "https://arxiv.org/pdf/2410.21741",
+      "relevant": true,
+      "topic": "multi-agent systems large language model"
+    },
+    {
+      "title": "SAGE: Self-evolving Agents with Reflective and Memory-augmented Abilities",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4410629910",
+      "arxiv_id": null,
+      "pdf_url": null,
+      "relevant": false,
+      "topic": "multi-agent systems large language model"
+    }
+  ]
+}

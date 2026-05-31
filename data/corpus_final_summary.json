@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-05-29T18:47:36.973888",
+  "total_metadata_records": 1092,
+  "total_pdfs_on_disk": 588,
+  "total_corpus_size_mb": 1818.69,
+  "papers_with_arxiv_ids": 341,
+  "papers_without_arxiv_ids": 751,
+  "arxiv_coverage_pct": 31.2,
+  "duplicate_titles": 0,
+  "topics_completed": 3,
+  "completed_topic_names": [
+    "autonomous agent AI",
+    "LLM agent large language model",
+    "agentic AI system"
+  ],
+  "year_distribution": {
+    "unknown": 92,
+    "2026": 233,
+    "2025": 435,
+    "2024": 332
+  },
+  "source_distribution": {
+    "unknown": 91,
+    "arxiv": 1,
+    "openalex": 1000
+  },
+  "status": "collection_complete"
+}

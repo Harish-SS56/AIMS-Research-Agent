@@ -1,0 +1,86 @@
+{
+  "full_agent": {
+    "config_name": "full_agent",
+    "num_queries": 30,
+    "avg_accuracy": 2.83,
+    "avg_faithfulness": 0.48,
+    "avg_citation_precision": 0.97,
+    "avg_citation_recall": 0.97,
+    "avg_latency": 61.9,
+    "avg_tool_calls": 3.8,
+    "std_accuracy": 1.26,
+    "std_latency": 30.8
+  },
+  "baseline": {
+    "config_name": "baseline",
+    "num_queries": 30,
+    "avg_accuracy": 2.07,
+    "avg_faithfulness": 0.38,
+    "avg_citation_precision": 1.0,
+    "avg_citation_recall": 1.0,
+    "avg_latency": 17.3,
+    "avg_tool_calls": 1.0,
+    "std_accuracy": 0.78,
+    "std_latency": 5.49
+  },
+  "no_planner": {
+    "config_name": "no_planner",
+    "num_queries": 30,
+    "avg_accuracy": 2.53,
+    "avg_faithfulness": 0.38,
+    "avg_citation_precision": 0.97,
+    "avg_citation_recall": 0.97,
+    "avg_latency": 57.9,
+    "avg_tool_calls": 1.1,
+    "std_accuracy": 1.2,
+    "std_latency": 114.19
+  },
+  "no_reranker": {
+    "config_name": "no_reranker",
+    "num_queries": 30,
+    "avg_accuracy": 2.83,
+    "avg_faithfulness": 0.48,
+    "avg_citation_precision": 1.0,
+    "avg_citation_recall": 1.0,
+    "avg_latency": 64.8,
+    "avg_tool_calls": 3.9,
+    "std_accuracy": 0.87,
+    "std_latency": 32.25
+  },
+  "no_reflector": {
+    "config_name": "no_reflector",
+    "num_queries": 30,
+    "avg_accuracy": 2.5,
+    "avg_faithfulness": 0.48,
+    "avg_citation_precision": 1.0,
+    "avg_citation_recall": 1.0,
+    "avg_latency": 48.6,
+    "avg_tool_calls": 3.0,
+    "std_accuracy": 0.94,
+    "std_latency": 17.76
+  },
+  "no_hybrid": {
+    "config_name": "no_hybrid",
+    "num_queries": 9,
+    "avg_accuracy": 2.11,
+    "avg_faithfulness": 0.33,
+    "avg_citation_precision": 0.78,
+    "avg_citation_recall": 0.78,
+    "avg_latency": 28.8,
+    "avg_tool_calls": 2.3,
+    "std_accuracy": 1.83,
+    "std_latency": 17.46
+  },
+  "no_verifier": {
+    "config_name": "no_verifier",
+    "num_queries": 5,
+    "avg_accuracy": 2.4,
+    "avg_faithfulness": 0.5,
+    "avg_citation_precision": 1.0,
+    "avg_citation_recall": 1.0,
+    "avg_latency": 26.8,
+    "avg_tool_calls": 3.0,
+    "std_accuracy": 1.52,
+    "std_latency": 5.11
+  }
+}
