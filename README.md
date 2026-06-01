@@ -237,34 +237,22 @@ The system is evaluated on 30 questions across three types:
 | `no_hybrid` | Semantic-only retrieval (no BM25) |
 | `no_verifier` | Skip citation verification |
 
-## Live Demo
+## Demo
 
-### Demo Video
+### Full System Demo (Video)
+
+The video below shows the complete system running locally with both frontend and backend—demonstrating query input, agent execution trace (planning → retrieval → reflection → synthesis), and final cited answer:
 
 https://github.com/user-attachments/assets/89d0574d-bbe3-499d-a51d-05d6060ffe61
 
-🌐 **Frontend Demo**: [https://frontend-flax-zeta-a2gm1yxwxw.vercel.app](https://frontend-flax-zeta-a2gm1yxwxw.vercel.app)
+### Live Frontend Preview
 
-> ⚠️ **Note**: The live demo shows the frontend UI only. The backend API requires Azure OpenAI credentials and runs on a private network. To use the full research agent functionality:
-> 1. Clone the repository
-> 2. Set up your own Azure OpenAI credentials in `.env`
-> 3. Run the backend locally: `uvicorn app.api:app --port 8000`
-> 4. The frontend will connect to your local backend
+🌐 [https://frontend-flax-zeta-a2gm1yxwxw.vercel.app](https://frontend-flax-zeta-a2gm1yxwxw.vercel.app)
 
-### Running the Full Demo Locally
-
-```bash
-# Terminal 1: Start backend
-cd "AIMS Research Agent"
-venv\Scripts\activate  # Windows
-uvicorn app.api:app --reload --port 8000
-
-# Terminal 2: Start frontend
-cd frontend
-npm run dev
-```
-
-Then open http://localhost:5173 in your browser.
+> **Note**: This link shows the frontend UI only. The backend API is not publicly hosted (requires Azure OpenAI credentials). To run the full system as shown in the video above:
+> 1. Clone this repository
+> 2. Set up your Azure OpenAI credentials in `.env`
+> 3. Run locally: `uvicorn app.api:app --port 8000` + `cd frontend && npm run dev`
 
 ## Key Design Decisions
 
