@@ -198,6 +198,10 @@ This work implements a six-module pipeline on a domain-specific arXiv corpus wit
 | no_planner | 0 | 1 | 1 | 1 | 1 | 10 | 30 |
 | no_reranker | 1 | 0 | 1 | 1 | 1 | 10 | 30 |
 | no_reflector | 1 | 1 | 0 | 1 | 1 | 1 | 30 |
+| no_hybrid | 1 | 1 | 1 | 0 | 1 | 10 | 9 |
+| no_verifier | 1 | 1 | 1 | 1 | 0 | 10 | 5 |
+
+*no_hybrid and no_verifier terminated early due to Azure API rate limits.*
 
 ---
 
@@ -282,21 +286,6 @@ Accuracy
 
 **Pareto frontier:** baseline (max throughput) → no_reflector (balanced) → full_agent (max quality)
 
-### Limitations
-
-1. **Corpus scope:** arXiv only; excludes ACL Anthology, NeurIPS, ICML
-2. **PDF parsing:** 43.3% success rate; complex layouts fail
-3. **Evaluation:** No human inter-rater reliability validation
-4. **Latency:** 62s unsuitable for real-time; streaming not implemented
-5. **Azure dependency:** All LLM calls route through Azure OpenAI
-
-### Future Work
-
-- Expand corpus to conference proceedings (ACL Anthology API)
-- Implement streaming synthesis for perceived latency reduction
-- Cross-encoder reranker at larger corpus scale
-- Citation graph traversal via Semantic Scholar API
-
 ---
 
 ## 9. Conclusion
@@ -311,44 +300,3 @@ This work presents a six-module RAG agent evaluated on 574 arXiv papers. Control
 6. **Latency trade-off:** 3.6× range (17.3s–64.8s) enabling deployment flexibility
 
 The empirical findings validate that iterative retrieval-reasoning (Reflector) and query decomposition (Planner) produce measurable improvements over naive single-pass RAG.
-
----
-
-## References
-
-[1] Yao, S., et al. (2022). ReAct: Synergizing Reasoning and Acting in Language Models. arXiv:2210.03629
-
-[2] Asai, A., et al. (2023). Self-RAG: Learning to Retrieve, Generate, and Critique. arXiv:2310.11511
-
-[3] Shinn, N., et al. (2023). Reflexion: Language Agents with Verbal Reinforcement Learning. arXiv:2303.11366
-
-[4] Wei, J., et al. (2022). Chain-of-Thought Prompting Elicits Reasoning. arXiv:2201.11903
-
-[5] Es, S., et al. (2023). RAGAS: Automated Evaluation of RAG. arXiv:2309.15217
-
-[6] Zheng, L., et al. (2023). Judging LLM-as-a-Judge with MT-Bench. arXiv:2306.05685
-
-[7] Lewis, P., et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP. arXiv:2005.11401
-
----
-
-## Appendix: Reproduction
-
-```bash
-git clone https://github.com/Harish-SS56/AIMS-Research-Agent.git
-cd "AIMS Research Agent"
-python -m venv venv && venv\Scripts\activate
-pip install -r requirements.txt
-cp .env.example .env  # Configure Azure OpenAI credentials
-
-# Build corpus and index
-python run.py build-corpus --start-date 2024-01-01 --end-date 2026-04-30
-python run.py build-index
-
-# Run evaluation
-python generate_predictions.py
-
-# Launch demo (two terminals)
-uvicorn app.api:app --port 8000          # Backend
-cd frontend && npm install && npm run dev # Frontend
-```
