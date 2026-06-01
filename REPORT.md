@@ -198,10 +198,6 @@ This work implements a six-module pipeline on a domain-specific arXiv corpus wit
 | no_planner | 0 | 1 | 1 | 1 | 1 | 10 | 30 |
 | no_reranker | 1 | 0 | 1 | 1 | 1 | 10 | 30 |
 | no_reflector | 1 | 1 | 0 | 1 | 1 | 1 | 30 |
-| no_hybrid | 1 | 1 | 1 | 0 | 1 | 10 | 9 |
-| no_verifier | 1 | 1 | 1 | 1 | 0 | 10 | 5 |
-
-*no_hybrid and no_verifier terminated early due to Azure API rate limits.*
 
 ---
 
