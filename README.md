@@ -241,20 +241,7 @@ The system is evaluated on 30 questions across three types:
 
 ### Demo Video
 
-<!-- 📹 SCREEN RECORDING: Replace this comment with your video embed or link -->
-<!-- Option 1 – GitHub hosted (upload the .mp4 to this repo, then reference it):
-![Demo](assets/demo.mp4)
--->
-<!-- Option 2 – YouTube / Google Drive link:
-[![Watch the demo](assets/demo-thumbnail.png)](https://youtu.be/YOUR_VIDEO_ID)
--->
-<!-- Option 3 – Direct link:
-🎬 **[Watch demo video](https://youtu.be/YOUR_VIDEO_ID)**
--->
-
-> _Screen recording coming soon — showing query input, agent trace (plan → retrieval → reflection → synthesis), and cited answer output._
-
----
+https://github.com/user-attachments/assets/89d0574d-bbe3-499d-a51d-05d6060ffe61
 
 🌐 **Frontend Demo**: [https://frontend-flax-zeta-a2gm1yxwxw.vercel.app](https://frontend-flax-zeta-a2gm1yxwxw.vercel.app)
 
