@@ -239,6 +239,23 @@ The system is evaluated on 30 questions across three types:
 
 ## Live Demo
 
+### Demo Video
+
+<!-- 📹 SCREEN RECORDING: Replace this comment with your video embed or link -->
+<!-- Option 1 – GitHub hosted (upload the .mp4 to this repo, then reference it):
+![Demo](assets/demo.mp4)
+-->
+<!-- Option 2 – YouTube / Google Drive link:
+[![Watch the demo](assets/demo-thumbnail.png)](https://youtu.be/YOUR_VIDEO_ID)
+-->
+<!-- Option 3 – Direct link:
+🎬 **[Watch demo video](https://youtu.be/YOUR_VIDEO_ID)**
+-->
+
+> _Screen recording coming soon — showing query input, agent trace (plan → retrieval → reflection → synthesis), and cited answer output._
+
+---
+
 🌐 **Frontend Demo**: [https://frontend-flax-zeta-a2gm1yxwxw.vercel.app](https://frontend-flax-zeta-a2gm1yxwxw.vercel.app)
 
 > ⚠️ **Note**: The live demo shows the frontend UI only. The backend API requires Azure OpenAI credentials and runs on a private network. To use the full research agent functionality:
